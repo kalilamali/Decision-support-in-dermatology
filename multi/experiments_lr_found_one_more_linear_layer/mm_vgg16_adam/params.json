@@ -1,0 +1,11 @@
+{
+    "size":224,
+    "batch_size":32,
+    "num_workers":1,
+    "network":"vgg16_1_one_more_linear_layer",
+    "optimizer":"Adam",
+    "momentum":0.9,
+    "weight_decay":0.005,
+    "learning_rate":10e-3,
+    "num_epochs":1
+  }
