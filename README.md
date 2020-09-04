@@ -6,7 +6,7 @@ This repository contains the scripts used in "Deep learning for decision support
 
 Before starting download doadload the data and place it in this structure:
 
- ![image](https://github.com/kalilamali/Decision-support-in-dermatology/blob/master/data_structure.png){ width=10% height=10% }
+ <img src="https://github.com/kalilamali/Decision-support-in-dermatology/blob/master/data_structure.png" width="200" height="200">
 
 ### Prerequisites
 
