@@ -5,15 +5,9 @@ This repository contains the scripts used in "Deep learning for decision support
 ## Getting Started
 
 Before starting download doadload the data and place it in this structure:
-```
-data
 
-../binary
-    ../non-skin
-        ../img1.jpg
-    ../skin
-        ../img1.jpg
-```
+![image](https://github.com/kalilamali/Decision-support-in-dermatology/blob/master/data_structure.png)
+
 ### Prerequisites
 
 See requirements.txt
@@ -41,4 +35,4 @@ evaluate.py
 
 For questions, contact s181423@student.dtu.dk
 
-*Initial work* - [SKINdx](https://github.com/kalilamali/SKINdx)
+*Related work* - [SKINdx](https://github.com/kalilamali/SKINdx)
