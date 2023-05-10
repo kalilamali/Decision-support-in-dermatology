@@ -33,7 +33,7 @@ evaluate.py
 
 ### Questions
 
-For questions, contact s181423@student.dtu.dk
+For questions, please write an issue.
 
 *Related work* - [SKINdx](https://github.com/kalilamali/SKINdx)
 
